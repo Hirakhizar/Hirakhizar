@@ -27,8 +27,8 @@ Welcome to my GitHub profile. I'm Hira Khizar, a Laravel developer with a passio
 ### Favorite Framework:
 - 🛠️ **Laravel** (PHP)
 
-## Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/Hira)
+- ### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hira-khizar)
 
 Thanks for visiting my profile!
