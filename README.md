@@ -1,4 +1,4 @@
-<h1 align="center mb-5">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FF5733&center=true&vCenter=true&multiline=true&width=435&lines=Hi+there!+👋+I'm+Hira;Laravel+%7C+Vue.js+%7C+Backend+Developer" alt="Typing SVG" />
 </h1>
 
@@ -33,24 +33,32 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
 </p>
 
-
-
----
-
-### 📊 **GitHub Stats & Activity**
+#### 🔧 **DevOps & Tools**  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,filezilla" />
 </p>
 
 ---
 
-### 🚀 **Fun with Contributions**
+### 📊 **GitHub Stats & Contributions**
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HiraDev&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HiraDev&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HiraDev&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HiraDev&theme=radical" />
 </p>
 
 ---
+
+
+### ✨ **"Code. Debug. Deploy. Repeat!"** 🚀
+
 
 ### 🌎 **Let's Connect!**
 <p align="center">
