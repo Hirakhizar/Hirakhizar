@@ -1,10 +1,17 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FF5733&center=true&vCenter=true&multiline=true&width=435&lines=Hi+there!+👋+I'm+Hira;Laravel+%7C+Vue.js+%7C+Backend+Developer" alt="Typing SVG" />
-</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="600px" alt="Coding Screen GIF">
 </p>
+
+
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FF5733&center=true&vCenter=true&multiline=true&width=435&lines=Hi+there!+👋+I'm+Hira" alt="Typing SVG" />
+</h1>
+
+
+
+
 
 ---
 
@@ -30,12 +37,12 @@
 
 #### 🗄️ **Database & Storage**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 #### 🔧 **DevOps & Tools**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,filezilla" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,filezilla" />
 </p>
 
 ---
