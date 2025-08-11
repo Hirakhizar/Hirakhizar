@@ -2,9 +2,11 @@
   <img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600px" alt="Programming Screen Dark Mode">
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF5733&center=true&vCenter=true&multiline=true&width=500&lines=Hi+there!+👋;I'm+Hira+Khizar;Laravel+Developer+%7C+Vue.js+Enthusiast" alt="Typing SVG" />
+<h1 align="center ">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF5733&center=true&vCenter=true&multiline=true&width=500&lines=Hi%20there!%20%F0%9F%91%8B%20I'm%20Hira%20Khizar;Laravel%20Developer%20%7C%20Vue.js%20Enthusiast" alt="Typing SVG" />
 </h1>
+
+
 
 ---
 
