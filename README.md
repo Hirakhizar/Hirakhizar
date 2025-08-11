@@ -1,64 +1,61 @@
-
 <p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="600px" alt="Coding Screen GIF">
+  <img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600px" alt="Programming Screen Dark Mode">
 </p>
 
-
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FF5733&center=true&vCenter=true&multiline=true&width=435&lines=Hi+there!+👋+I'm+Hira" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF5733&center=true&vCenter=true&multiline=true&width=500&lines=Hi+there!+👋;I'm+Hira+Khizar;Laravel+Developer+%7C+Vue.js+Enthusiast" alt="Typing SVG" />
 </h1>
 
+---
 
-
-
+## 👩‍💻 About Me  
+✨ Passionate **Laravel Developer** & **Vue.js Enthusiast**  
+🚀 Building **scalable web applications** with clean, maintainable code  
+💡 Obsessed with **problem-solving & API development**  
+📚 Lifelong learner of **modern tech stacks**  
 
 ---
 
-### 👩‍💻 About Me  
-- 🚀 **Laravel Developer** | **Vue.js Enthusiast**  
-- 💡 Passionate about **scalable web applications**  
-- 🔧 Love **problem-solving & API development**  
-- 📚 Always learning new technologies!  
+## 🚀 Tech Stack & Tools  
 
----
-
-### 🚀 **Tech Stack & Tools**  
-
-#### 🎨 **Frontend Development**  
+### 🎨 Frontend Development  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,scss,vue,js,bootstrap" />
 </p>
 
-#### ⚙️ **Backend Development**  
+### ⚙️ Backend Development  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
 </p>
 
-#### 🗄️ **Database & Storage**  
+### 🗄️ Database & Storage  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-#### 🔧 **DevOps & Tools**  
+### 🔧 DevOps & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,filezilla" />
 </p>
 
 ---
 
-### 📊 **GitHub Stats & Contributions**
-
-
-
+## 📊 GitHub Stats & Contributions  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hirakhizar&show_icons=true&theme=radical&cache_seconds=1800" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hirakhizar&theme=radical&cache_seconds=1800" width="48%">
+</p>
 
 ---
 
+<h2 align="center">✨ Code. Debug. Deploy. <span style="color:#FF5733">Repeat!</span> 🚀</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" alt="Coding Animation">
+</p>
 
-### ✨ **"Code. Debug. Deploy. Repeat!"** 🚀
+---
 
-
-### 🌎 **Let's Connect!**
+## 🌎 Let's Connect!  
 <p align="center">
   <a href="mailto:hirakhizarkhizarhayat.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -66,9 +63,4 @@
   <a href="https://www.linkedin.com/in/hira-khizar-264686294/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
- 
 </p>
-
----
-
-### ✨ **"Code. Debug. Deploy. Repeat!"** 🚀
