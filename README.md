@@ -56,6 +56,15 @@
 </p>
 
 ---
+<p align="center">
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=hirakhizar&label=Profile%20Views&color=ff5733&style=for-the-badge" alt="Profile Views" />
+  
+  <!-- Followers Count -->
+  <img src="https://img.shields.io/github/followers/hirakhizar?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+</p>
+
+---
 
 ## 🌎 Let's Connect!  
 <p align="center">
